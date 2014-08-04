@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Mehdi Raza's blog
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            The Happy Bug
+tagline:          'The ramblings of a software engineer + web designer in the making.'
+description:      'I do the same things that other people do but when I do those things, people say that the things I do, I do them awesome.'
+url:              http://thehappybug.github.io
 baseurl:          /
 
 author:
-  name:           'Mehdi Raza'
-  url:            https://twitter.com/mdo
+  name:           'Happiest Bug'
+  url:            http://thehappybug.github.io
 
 paginate:         5
 
